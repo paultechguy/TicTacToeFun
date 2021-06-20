@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdvancedTicTacToe": {
+      "commandName": "Project",
+      "commandLineArgs": "5"
+    }
+  }
+}
